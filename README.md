@@ -1,2 +1,2 @@
 # modileapps
-Doodlz
+Mobile app "Doodlz" for study 
